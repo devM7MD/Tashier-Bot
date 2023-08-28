@@ -8,7 +8,7 @@ we call it in the Arab countries as "defamation bot".
 
 To setup the bot you shuold follow the following steps to know how to run the bot with out any errors ->
 <hr />
-### 1. Frist Step
+# 1. Frist Step
 
 Download all the packages
 
@@ -23,7 +23,7 @@ Note -> Some times You Should be make a virtual environment for Python
 pip3 install -r requirements.txt
 ```
 <hr />
-### How to setup the code ?
+# How to setup the code ?
 
 The Project Must Have Mongo Url And Bot discord Token
 
