@@ -31,3 +31,6 @@ The Project Must Have Mongo Url And Bot discord Token
 
 You can setup from the code easelly like create `.env` file and put in it `mongo_url=URL_HERE` and `token=TOKEN_HERE`
 
+<hr />
+
+#### Developed by devM7MD | Discord -> its.m7md.
